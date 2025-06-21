@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack
 
 #### 🔍 QA & Testing
-![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=testcafe&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-D65348?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF3300?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -40,7 +40,7 @@
 #### 🧑‍💻 Dev Platforms & Editors
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=aframe&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 #### 🧠 IDEs & Code Editors
