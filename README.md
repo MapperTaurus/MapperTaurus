@@ -45,7 +45,7 @@
 
 #### 🧠 IDEs & Code Editors
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=v&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-00CED1?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-00CED1?style=for-the-badge&logo=coursera&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 #### 🎨 Design & Multimedia
@@ -59,7 +59,7 @@
 ![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=valve&logoColor=white)
 ![Hammer++](https://img.shields.io/badge/Hammer++-4B0082?style=for-the-badge&logo=steam&logoColor=white)
 ![J.A.C.K.](https://img.shields.io/badge/J.A.C.K.-191970?style=for-the-badge&logo=mapbox&logoColor=white)
-![VTFEdit](https://img.shields.io/badge/VTFEdit-808080?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![VTFEdit](https://img.shields.io/badge/VTFEdit-808080?style=for-the-badge&logo=gamebanana&logoColor=white)
 ![Wally](https://img.shields.io/badge/Wally-6A5ACD?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 ---
