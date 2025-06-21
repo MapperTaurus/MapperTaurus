@@ -50,7 +50,7 @@
 
 #### 🧠 IDEs & Code Editors
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-00CED1?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-666666?style=for-the-badge&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 #### 🐳 DevOps & CI/CD
