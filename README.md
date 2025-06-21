@@ -18,25 +18,24 @@
 
 ### 🧰 Tech Stack
 
-
-#### 🧪 QA & Testing
+#### 🔍 QA & Testing
 ![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF3300?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-#### 💻 Programming Languages & Web
+#### 💻 Programming Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🌐 Frontend
+#### 🌐 Front-End & Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🧑‍💻 Dev Platforms & Editors
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,7 +54,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=daVinci-resolve&logoColor=white)
 
-#### 🎮 Modding Tools & Level Editors
+#### 🎮 Modding & Level Design Tools
 ![Valve Hammer Editor](https://img.shields.io/badge/Hammer%20Editor-FF9900?style=for-the-badge&logo=steam&logoColor=white)
 ![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=half-life&logoColor=white)
 ![Hammer++](https://img.shields.io/badge/Hammer++-4B0082?style=for-the-badge&logo=steam&logoColor=white)
