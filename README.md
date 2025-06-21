@@ -56,7 +56,7 @@
 
 #### 🎮 Modding & Level Design Tools
 ![Valve Hammer Editor](https://img.shields.io/badge/Hammer%20Editor%20(Source)-FF9900?style=for-the-badge&logo=steam&logoColor=white)
-![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=half-life&logoColor=white)
+![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=steam&logoColor=white)
 ![Hammer++](https://img.shields.io/badge/Hammer++-4B0082?style=for-the-badge&logo=steam&logoColor=white)
 ![J.A.C.K.](https://img.shields.io/badge/J.A.C.K.-191970?style=for-the-badge&logo=mapbox&logoColor=white)
 ![VTFEdit](https://img.shields.io/badge/VTFEdit-808080?style=for-the-badge&logo=half-life&logoColor=white)
