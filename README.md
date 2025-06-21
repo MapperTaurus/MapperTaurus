@@ -55,7 +55,7 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=daVinci-resolve&logoColor=white)
 
 #### 🎮 Modding & Level Design Tools
-![Valve Hammer Editor (Source)](https://img.shields.io/badge/Hammer%20Editor-FF9900?style=for-the-badge&logo=steam&logoColor=white)
+![Valve Hammer Editor](https://img.shields.io/badge/Hammer%20Editor%20(Source)-FF9900?style=for-the-badge&logo=steam&logoColor=white)
 ![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=half-life&logoColor=white)
 ![Hammer++](https://img.shields.io/badge/Hammer++-4B0082?style=for-the-badge&logo=steam&logoColor=white)
 ![J.A.C.K.](https://img.shields.io/badge/J.A.C.K.-191970?style=for-the-badge&logo=mapbox&logoColor=white)
