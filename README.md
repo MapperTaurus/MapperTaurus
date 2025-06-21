@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack
 
 #### 🔍 QA & Testing
-![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=qase&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF3300?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -55,8 +55,8 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=daVinci-resolve&logoColor=white)
 
 #### 🎮 Modding & Level Design Tools
-![Valve Hammer Editor](https://img.shields.io/badge/Hammer%20Editor%20(Source)-FF9900?style=for-the-badge&logo=valve&logoColor=white)
-![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=valve&logoColor=white)
+![Valve Hammer Editor](https://img.shields.io/badge/Hammer%20Editor%20(Source)-FF9900?style=for-the-badge&logo=steam&logoColor=white)
+![GoldSrc Hammer](https://img.shields.io/badge/Hammer%20Editor%20(GoldSrc)-A52A2A?style=for-the-badge&logo=steam&logoColor=white)
 ![Hammer++](https://img.shields.io/badge/Hammer++-4B0082?style=for-the-badge&logo=steam&logoColor=white)
 ![J.A.C.K.](https://img.shields.io/badge/J.A.C.K.-191970?style=for-the-badge&logo=mapbox&logoColor=white)
 ![VTFEdit](https://img.shields.io/badge/VTFEdit-808080?style=for-the-badge&logo=gamebanana&logoColor=white)
