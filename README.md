@@ -51,7 +51,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=aframe&logoColor=white)
-![BugHerd](https://img.shields.io/badge/BugHerd-FF6600?style=for-the-badge)
+![BugHerd](https://img.shields.io/badge/BugHerd-6cb7d1?style=for-the-badge)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 #### 🧠 IDEs & Code Editors
