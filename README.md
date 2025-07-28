@@ -88,7 +88,7 @@
 
 ### 📬 Contact Me
 
-📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=mappertaurus@gmail.com)
+📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=ivan.it.qa@gmail.com)
 
 ---
 
