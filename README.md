@@ -94,7 +94,7 @@
 
 ### 👣 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mappertaurus&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=mappertaurus&color=11b60e&style=flat)
 
 ---
 
