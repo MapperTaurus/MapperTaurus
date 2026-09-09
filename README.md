@@ -9,9 +9,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mappertaurus&layout=compact&langs_count=6&theme=transparent&hide_progress=false" alt="Top Languages" /> <br/>
-  <!--- <img src="https://github-readme-stats.vercel.app/api?username=mappertaurus&show_icons=true&theme=transparent&hide_rank=false" alt="Ivan's GitHub Stats" /> -->
-<img src="https://git-hub-streak-stats.vercel.app?user=mappertaurus&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-theta.vercel.app?user=mappertaurus&background=ffffff&border=11b60e&stroke=11b60e&ring=11b60e&fire=11b60e&currStreakNum=11b60e&sideNums=11b60e&currStreakLabel=11b60e&sideLabels=11b60e&dates=333333&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
